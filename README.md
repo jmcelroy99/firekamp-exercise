@@ -39,6 +39,14 @@ npm run start
 
 And follow the instruction on the terminal
 
+# :pray: If I had more time ...
+
+- QA Testing
+- Enhanced Error handling
+- Update the weather data regularly
+- Enhanced UI/UX
+- ...
+  
 # :star: Screenshots
 
 ![Weather](screenshots/loading.png)

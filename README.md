@@ -39,4 +39,10 @@ npm run start
 
 And follow the instruction on the terminal
 
+# :star: Screenshots
 
+![Weather](screenshots/loading.png)
+![Weather](screenshots/weather.png)
+![Weather](screenshots/offline.png)
+![Weather](screenshots/api_failed.png)
+![Weather](screenshots/reload.png)

@@ -1,0 +1,1 @@
+export const API_GET_FORECAST = '/data/2.5/forecast';
